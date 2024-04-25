@@ -1,8 +1,8 @@
-# Business Dashboard README
+# Business Dashboard 📈
 
 This project is a Business Dashboard created using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides various components to visualize essential business metrics and insights. The dashboard utilizes the Recharts library for displaying graphical representations. Vite is used for the frontend development environment.
 
-## Components
+## Components 🛠️
 
 ### 1. Profit and Revenue
 
@@ -32,7 +32,7 @@ This project is a Business Dashboard created using the MERN (MongoDB, Express.js
 
 - Breakdown of expenses categorized by different expenditure types.
 
-## **Machine Learning: Prediction Module**
+## **Machine Learning: Prediction Module 🤖 **
 
 In addition to the dashboard components, the project includes a Prediction module that utilizes machine learning for forecasting future revenue.
 
@@ -40,7 +40,7 @@ In addition to the dashboard components, the project includes a Prediction modul
 
 - Utilizes regression algorithms to predict next year's revenue based on current month's data.
 
-## Installation and Setup
+## Installation and Setup ⚙️
 
 Follow these steps to set up and run the project:
 
@@ -48,19 +48,24 @@ Follow these steps to set up and run the project:
 2. Navigate to the project directory.
 3. Install dependencies:
    ```
-   npm install
+   yarn install
    ```
 4. Configure environment variables, including database connection details.
 5. Populate the MongoDB database with relevant data.
 6. Start the frontend development server:
    ```
-   npm run dev
+   yarn dev
    ```
 7. Start the backend server:
    ```
-   npm start
+   yarn dev
    ```
 8. Open the dashboard in your web browser.
+
+## Snapshots 📸
+![Dashboard](https://github.com/khushi2706/Business-Dashboard-using-MERN/assets/67452985/c8ff7e6b-3f18-41cf-ba3c-cffdcf70c020)
+![Predction](https://github.com/khushi2706/Business-Dashboard-using-MERN/assets/67452985/0dbaafab-dab6-4239-9f7c-1510990704f5)
+
 
 ## Technologies Used
 
